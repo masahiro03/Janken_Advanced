@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="弓">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d7d7d7}.d{fill:#7f7f7f}.dk{fill:#262626}.lt{fill:#fbfbfb}</style></defs>
+<g transform="translate(0,0)">
+  <path class="o" fill="none" d="M145 24c-74 12-74 140 0 152"/>
+  <path class="o dk" d="M145 24l-43 76 43 76"/>
+  <path class="o lt" d="M75 100h120"/>
+  <path class="o" fill="none" d="M145 24v152" opacity=".2"/>
+  <path class="o m" d="M82 92l-18 8 18 8z"/>
+  <path class="o d" d="M176 92l19 8-19 8z"/>
+  <path class="o" fill="none" d="M145 24c10 20 10 132 0 152" opacity=".3"/>
+</g></svg>

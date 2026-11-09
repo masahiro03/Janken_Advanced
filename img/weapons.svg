@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <symbol id="sword" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="M37 119 111 34l14-10-4 18-75 84z"/>
+        <path d="m45 98 18 16M35 119l-9 13M44 128l-13 9M39 121l9 8"/>
+      </g>
+    </symbol>
+    <symbol id="scythe" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="m54 138 53-96M48 54C71 25 106 23 132 32c-25-1-42 9-51 28-8 17-22 26-40 24"/>
+        <path d="m48 54 12 10"/>
+      </g>
+    </symbol>
+    <symbol id="spear" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="M30 132 119 38M113 31l15-11-3 19-16 13zM37 122l9 9"/>
+      </g>
+    </symbol>
+    <symbol id="gun" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="M24 59h84l20 12v13H84l-9 38H52l5-38H24z"/>
+        <path d="M108 59v25M34 59V46h63M65 85l10 1"/>
+      </g>
+    </symbol>
+    <symbol id="axe" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="m62 138 33-98M83 47c15-23 39-23 54-16-6 10-7 25 1 36-19 9-38 2-51-13"/>
+        <path d="m56 126 13 5"/>
+      </g>
+    </symbol>
+    <symbol id="bow" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="M104 25C44 37 44 123 104 135M104 25 70 80l34 55M51 80h88m-15-13 15 13-15 13"/>
+        <path d="m70 80 34-55m-34 55 34 55"/>
+      </g>
+    </symbol>
+    <symbol id="hammer" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="m59 134 42-72M39 30h76v33H39zM48 30V19h58v11"/>
+        <path d="m56 126 14 8"/>
+      </g>
+    </symbol>
+    <symbol id="twin-blades" viewBox="0 0 160 160">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
+        <path d="M34 48 89 103M29 43l-7-17 18 8 55 55M126 48 71 103m60-60 7-17-18 8-55 55"/>
+        <path d="m82 95 14 14m-32 0 14-14"/>
+      </g>
+    </symbol>
+    <symbol id="bomb" viewBox="0 0 160 160">
+      <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+        <path fill="#171717" stroke-width="6" d="M56 48c4-8 12-13 23-13s19 5 23 13c24 8 39 30 39 53 0 30-28 50-62 50s-62-20-62-50c0-23 15-45 39-53z"/>
+        <path fill="none" stroke="#171717" stroke-width="9" d="m96 40 14-18c9-11 21-7 23 1"/>
+        <path fill="none" stroke="#171717" stroke-width="5" d="m131 12 4-7m8 13 8-3"/>
+        <path fill="none" stroke="#fff" stroke-width="5" d="m45 78-7 11"/>
+        <circle cx="49" cy="68" r="3" fill="#fff" stroke="none"/>
+      </g>
+    </symbol>
+  </defs>
+</svg>

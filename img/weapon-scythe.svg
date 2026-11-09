@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="大鎌">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d7d7d7}.d{fill:#8a8a8a}.dk{fill:#262626}.lt{fill:#fbfbfb}</style></defs>
+<g transform="translate(0,2)">
+  <path class="o dk" d="M84 175l70-123 11 6-70 123z"/>
+  <path class="o lt" d="M138 33c29-12 59-10 82 8-29-2-49 8-62 27-11 17-28 27-48 27-13 0-22-3-30-8 14 2 25-2 35-11 8-7 14-18 23-27z"/>
+  <path class="o m" d="M145 38c20-5 42-3 62 8-24 0-42 9-54 25-8 11-18 18-31 21 10-8 17-17 23-29 0 0 0 0 0 0 4-8 4-17 0-25z"/>
+  <path class="o d" d="M77 165l18 9-8 12-17-10z"/>
+  <path class="o" fill="none" d="M93 153l11 7" opacity=".5"/>
+</g></svg>

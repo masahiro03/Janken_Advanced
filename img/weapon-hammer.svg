@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="ハンマー">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d8d8d8}.d{fill:#8b8b8b}.dk{fill:#2a2a2a}.lt{fill:#fbfbfb}</style></defs>
+<g transform="translate(0,2) rotate(-18 120 100)">
+  <rect class="o m" x="54" y="28" width="96" height="34" rx="4"/>
+  <rect class="o d" x="64" y="15" width="76" height="14" rx="3"/>
+  <path class="o dk" d="M101 62h14v102h-14z"/>
+  <path class="o lt" d="M93 156h30l6 18H87z"/>
+  <path class="o" fill="none" d="M78 45h48" opacity=".3"/>
+  <path class="o" fill="none" d="M101 75v60" opacity=".3"/>
+</g></svg>

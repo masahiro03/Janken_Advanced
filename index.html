@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="ピエロのスロットでカイトの武器を引こう。No.9の爆弾だけが当たり！">
+  <title>クレイジーピエロ武器抽選</title>
+  <link rel="stylesheet" href="css/crazy-clown.css">
+  <script src="js/crazy-clown.js" defer></script>
+</head>
+<body>
+  <div class="app-frame">
+    <header class="page-header">
+      <h1><span>クレイジーピエロ武器抽選</span></h1>
+      <p>カイトの武器を引く</p>
+    </header>
+    <main>
+      <section class="stage" aria-label="武器の抽選">
+        <!-- 添付の参考画像から人物とピエロだけを透過素材として切り出したもの -->
+        <img class="fighter fighter-left" src="img/kite-reference.png" alt="" aria-hidden="true">
+        <img class="fighter fighter-right" src="img/pitou-reference.png" alt="" aria-hidden="true">
+        <div class="game">
+          <img class="clown" src="img/clown-reference.png" alt="武器の抽選をするピエロ">
+          <div class="slot-wrap">
+            <span class="slot-pointer slot-pointer-left" aria-hidden="true"></span>
+            <div class="slot" id="slot" aria-label="抽選スロット">
+              <span class="slot-title">抽選スロット</span>
+              <span class="slot-number" id="slot-number">?</span>
+              <span class="slot-label" id="slot-label">No. —</span>
+            </div>
+            <span class="slot-pointer slot-pointer-right" aria-hidden="true"></span>
+          </div>
+          <button id="draw-button" class="draw-button" type="button">
+            <span class="play-icon" aria-hidden="true"></span>
+            <span>武器を引く</span>
+          </button>
+          <p id="draw-hint" class="sr-only" role="status" aria-live="polite">ボタンを押して武器を引いてください。</p>
+        </div>
+      </section>
+      <section class="info-grid" aria-label="戦績と抽選結果とルール">
+        <section class="info-card stats-card" aria-labelledby="stats-heading">
+          <h2 id="stats-heading" class="card-heading">戦績</h2>
+          <dl class="stats-list">
+            <div><dt>勝ち</dt><dd id="wins">0</dd></div>
+            <div><dt>負け</dt><dd id="losses">0</dd></div>
+            <div><dt>勝率</dt><dd id="win-rate">0.0%</dd></div>
+          </dl>
+          <button type="button" class="reset-button" id="reset-button">戦績リセット</button>
+        </section>
+        <section class="info-card result-card" aria-labelledby="result-heading">
+          <h2 class="card-heading" id="result-heading">抽選結果</h2>
+          <div class="result-content" id="result-content" aria-live="polite" aria-atomic="true">
+            <div class="weapon-art placeholder-art" id="weapon-art" aria-hidden="true">?</div>
+            <div class="result-copy">
+              <p class="result-number" id="result-number">No. —</p>
+              <p class="weapon-name" id="weapon-name">抽選待ち</p>
+              <p class="verdict" id="verdict">—</p>
+            </div>
+          </div>
+        </section>
+        <section class="info-card rules-card" aria-labelledby="rules-heading">
+          <h2 class="card-heading" id="rules-heading">ルール</h2>
+          <div class="rules-copy">
+            <p><strong>No.9 = 爆弾</strong></p>
+            <p>爆弾なら勝ち</p>
+            <p>それ以外は負け</p>
+            <p class="chance">当選確率 1/9</p>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="剣">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d9d9d9}.d{fill:#787878}.dk{fill:#242424}.lt{fill:#f7f7f7}</style></defs>
+<g transform="translate(6,0) rotate(-8 120 100)">
+  <path class="o lt" d="M140 20l18 18-72 78-23 7 7-23z"/>
+  <path class="o m" d="M149 28l9 10-58 64-11-10z"/>
+  <path class="o d" d="M70 118l24-24 18 18-24 24z"/>
+  <path class="o dk" d="M57 130l15-15 27 27-15 15z"/>
+  <path class="o lt" d="M47 140l17-17 12 12-17 17z"/>
+  <path class="o" fill="none" d="M122 40l21 21" opacity=".35"/>
+  <circle cx="52" cy="145" r="4" fill="#fff" stroke="#111" stroke-width="4"/>
+</g></svg>

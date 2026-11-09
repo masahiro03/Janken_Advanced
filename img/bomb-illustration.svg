@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="爆弾">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d6d6d6}.d{fill:#8c8c8c}.dk{fill:#202020}.lt{fill:#fdfdfd}</style></defs>
+<g transform="translate(12,-2)">
+  <path class="o" fill="none" d="M120 57c2-23 14-35 35-38"/>
+  <path class="o dk" d="M145 15l6 13 14-6-8 13 13 8-15 1 4 15-12-9-10 12-1-15-15 3 11-10-9-11 14 5z"/>
+  <rect class="o d" x="103" y="57" width="34" height="32" rx="4"/>
+  <circle class="o dk" cx="116" cy="128" r="56"/>
+  <ellipse class="lt" cx="91" cy="105" rx="10" ry="8"/>
+  <path class="o" fill="none" d="M83 140c7 21 20 33 38 39" opacity=".2"/>
+  <circle class="lt" cx="151" cy="28" r="4"/>
+</g></svg>

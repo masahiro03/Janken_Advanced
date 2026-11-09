@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="槍">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d8d8d8}.d{fill:#7b7b7b}.dk{fill:#262626}.lt{fill:#fbfbfb}</style></defs>
+<g transform="translate(8,0) rotate(-12 120 100)">
+  <path class="o dk" d="M37 154l129-103 9 12L46 166z"/>
+  <path class="o lt" d="M165 39l29-25-7 36-16 13z"/>
+  <path class="o m" d="M170 44l14-13-3 15-8 7z"/>
+  <path class="o d" d="M31 149l19 11-10 14-18-12z"/>
+  <path class="o" fill="none" d="M55 138l18 14" opacity=".35"/>
+  <path class="o" fill="none" d="M82 116l8 6" opacity=".25"/>
+</g></svg>

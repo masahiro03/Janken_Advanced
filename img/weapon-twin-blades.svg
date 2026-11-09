@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" role="img" aria-label="双剣">
+<defs><style>.o{stroke:#111;stroke-width:5;stroke-linejoin:round;stroke-linecap:round}.m{fill:#d9d9d9}.d{fill:#8a8a8a}.dk{fill:#262626}.lt{fill:#fbfbfb}</style></defs>
+<g transform="translate(0,0)">
+  <g transform="translate(12,0) rotate(-10 90 100)">
+    <path class="o lt" d="M44 42l12-18 11 8 43 60-14 10z"/>
+    <path class="o dk" d="M87 87l19 26-11 8-22-23z"/>
+    <path class="o m" d="M63 31l47 60"/>
+  </g>
+  <g transform="translate(228,0) scale(-1,1) rotate(-10 90 100)">
+    <path class="o lt" d="M44 42l12-18 11 8 43 60-14 10z"/>
+    <path class="o dk" d="M87 87l19 26-11 8-22-23z"/>
+    <path class="o m" d="M63 31l47 60"/>
+  </g>
+</g></svg>
